@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a Researcher and passionate about image analys
 ## 🌱 About Me
 
 - 🔬 I specialize in satellite image analysis, machine learning, deep learning, remote sensing, and computer vision
-- 🌍 I’m passionate about using technology to solve pressing global issues like [e.g., biodiversity loss, climate change, water scarcity]
+- 🌍 I’m passionate about using technology to solve pressing global issues like land cover changes, agriculture expansion, deforestation, biodiversity loss, and water scarcity
 - 🛠️ Tools & Languages: `Python`, `R`, `QGIS`, `Google Earth Engine`, `PyTorch`, `TensorFlow`
 - 📊 I love working with open data and open-source tools to promote transparency and reproducibility in science, especially in remote sensing and computer vision community
 
