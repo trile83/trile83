@@ -17,21 +17,25 @@ Welcome to my GitHub profile! I'm a Researcher and passionate about image analys
 
 Here are a few projects I’m proud of:
 
-- 🌾 **[CroplandDL](https://github.com/trile83/RQUNet-DPC)**  
+- 🛰️ **[Senegal-LC-DL](https://github.com/nasa-nccs-hpda/senegal-lcluc-tensorflow)**  
+  A deep learning-based framework for very-high-resolution land cover mapping using WorldView-2,-3 imagery.
+
+- 🌾 **[Cropland-DPC](https://github.com/trile83/RQUNet-DPC)**  
   A deep learning-based pipeline for medium-resolution cropland mapping using Harmonized Landsat Sentinel-2 imagery.
 
 - 🛰️ **[Unsupervised-PlanetScope-LULC](https://github.com/trile83/PlanetScope-TimeSeries)**  
   An unsupervised framework using VBGMM for land cover classification without ground-truth labels using high-resolution crop and land use mapping using PlanetScope imagery.
 
-- 🤖 **[DL-Image-Denoise](https://github.com/trile83/RQUNetVAE)**  
+- 🤖 **[RQUNet-VAE-Image-Denoise](https://github.com/trile83/RQUNetVAE)**  
   Research and prototypes using a DL framework to remove noise from satellite imagery.
+
+- 🧬 **[PhyloView-COVID19](https://github.com/trile83/PhyloView)**  
+  A visualization tool and dashboard for tracking the spread and movement of COVID-19 phylogenetic data from the onset.
 
 ---
 
 ## 📫 Connect with Me
 
-- 🌐 Website: [your-website.com](https://your-website.com)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 - 💼 LinkedIn: [Minh Tri Le](https://www.linkedin.com/in/minh-tri-le-62590792/)
 - 📧 Email: lemontree8394@gmail.com
 
@@ -39,7 +43,7 @@ Here are a few projects I’m proud of:
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=trile83&show_icons=true&theme=default)
 
 ---
 
