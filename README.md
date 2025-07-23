@@ -37,7 +37,7 @@ Here are a few projects I’m proud of:
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: [Minh Tri Le](https://www.linkedin.com/in/minh-tri-le-62590792/)
-- 📧 Email: lemontree8394@gmail.com
+- 📧 Email: lemontree8394 at gmail dot com
 
 ---
 
